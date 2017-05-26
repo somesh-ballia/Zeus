@@ -1,0 +1,14 @@
+﻿Build started 2/22/2014 1:21:35 PM.
+     1>Project "Y:\Zeus\source\common\common.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "Release\".
+       InitializeBuildStatus:
+         Creating "Release\common.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release\common.unsuccessfulbuild".
+         Touching "Release\common.lastbuildstate".
+     1>Done Building Project "Y:\Zeus\source\common\common.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

@@ -1,0 +1,14 @@
+﻿Build started 2/22/2014 1:21:39 PM.
+     1>Project "Y:\Zeus\make\make.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "Release\".
+       InitializeBuildStatus:
+         Creating "Release\make.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release\make.unsuccessfulbuild".
+         Touching "Release\make.lastbuildstate".
+     1>Done Building Project "Y:\Zeus\make\make.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
